@@ -3,4 +3,4 @@
  To znamená, že mohu nový objekt třídy Package obohatit o atributy z rodičovské třídy
  
  ## diagram
-![diagram](diagram.JPG)
+![diagram](diagram.jpg)
